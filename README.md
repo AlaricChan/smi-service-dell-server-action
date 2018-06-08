@@ -1,4 +1,4 @@
-### smi-service-dell-server-action
+### smi-service-dell-server-action test
 
 #### Purpose
 
